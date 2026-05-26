@@ -1,0 +1,14 @@
+# Build artifacts
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Tree-sitter cloned grammars
+tree-sitter/
+tree-sitter-*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
