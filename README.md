@@ -70,7 +70,7 @@ In a separate terminal, run the provided PowerShell client to ingest a codebase 
 ```text
 ASTRA CLI Client
 ----------------
-Enter project path to scan: C:\Users\Alex\Projects\VitaLife
+Enter project path to scan: C:\Users\user\Projects\Project1
 Found 42 source files. Starting ingestion...
 Index build complete.
 
